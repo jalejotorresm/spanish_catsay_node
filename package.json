@@ -1,0 +1,13 @@
+{
+  "name": "spanish_catsay_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/integration_test.js",
+    "start" : "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
